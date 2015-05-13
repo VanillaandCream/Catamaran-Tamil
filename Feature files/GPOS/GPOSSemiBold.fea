@@ -1,0 +1,105 @@
+##--------------- Language Systems ---------------##
+
+languagesystem DFLT dflt;
+languagesystem taml dflt;
+languagesystem tml2 dflt;
+
+##--------------- Independent Lookups ---------------##
+
+#---- ABVM ----
+
+lookup abvm_1 {
+    markClass [\tm_Anusvara ] <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
+    markClass [\tm_Virama ] <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
+
+    pos base \tm_Ca <anchor 432 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ha <anchor 1336 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ja <anchor 464 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ka <anchor 425 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_La <anchor 628 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Lla <anchor 735 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Llla <anchor 482 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ma <anchor 460 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Na <anchor 396 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Nga <anchor 556 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Nna <anchor 1064 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Nnna <anchor 802 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Nya <anchor 762 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Pa <anchor 402 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ra <anchor 374 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Rra <anchor 481 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Sa <anchor 739 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Sha <anchor 632 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ssa <anchor 847 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ta <anchor 435 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Tta <anchor 454 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Va <anchor 651 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_Ya <anchor 491 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_VowelAa <anchor 355 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base \tm_KSsa <anchor 937 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+} abvm_1;
+
+lookup abvm_2 {
+    markClass [\tm_VowelIi ] <anchor 0 0> @MARKS_CLASS_0_LUT1_SUB0;
+
+    pos base \tm_Ca <anchor 789 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ha <anchor 1822 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ja <anchor 953 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ka <anchor 789 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_La <anchor 1166 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Lla <anchor 1395 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Llla <anchor 949 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ma <anchor 957 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Na <anchor 739 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Nga <anchor 1128 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Nna <anchor 1951 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Nnna <anchor 1502 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Nya <anchor 1268 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Pa <anchor 832 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ra <anchor 791 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Rra <anchor 978 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Sa <anchor 1506 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Sha <anchor 1159 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ssa <anchor 1367 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ta <anchor 807 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Va <anchor 1197 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_Ya <anchor 1054 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base \tm_KSsa <anchor 1614 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+} abvm_2;
+
+lookup kern {
+    pos \tm_Ha \tm_VowelU <0 0 -40 0>;
+    pos \tm_Ha \tm_VowelUu <0 0 -40 0>;
+    pos \tm_Sha \tm_VowelU <0 0 -70 0>;
+    pos \tm_Sha \tm_VowelUu <0 0 -70 0>;
+ subtable;
+    pos [ \tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark
+         \tm_VowelAa \tm_VowelUu.alt1]
+        [ \tm_Ca \tm_E \tm_Ee \tm_Ha \tm_Ka \tm_La \tm_Lla \tm_Nna \tm_Nnna \tm_Nya \tm_Sa
+         \tm_Ssa \tm_Ta \tm_Va \tm_Five \tm_Four \tm_Nine \tm_One \tm_Seven \tm_Six
+         \tm_Thousand \tm_Merpadi \tm_Naal \tm_Varavu \tm_Varudam \tm_AuLengthMark
+         \tm_VowelAi \tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_NnnU \tm_MU \tm_RU
+         \tm_LU \tm_LlU \tm_CUu \tm_TtUu \tm_MUu \tm_RUu \tm_LlUu \tm_LllUu \tm_VUu
+         \tm_Shree] <0 0 -60 0>;
+    pos [ \tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark
+         \tm_VowelAa \tm_VowelUu.alt1]
+        [ \tm_A \tm_Aa \tm_Eight] <0 0 -80 0>;
+    pos [ \tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark
+         \tm_VowelAa \tm_VowelUu.alt1]
+        [ \tm_I] <0 0 -40 0>;
+} kern;
+
+
+##--------------- Lookups ---------------##
+
+
+feature abvm {
+        lookup abvm_1;
+        lookup abvm_2;
+} abvm;
+
+feature kern {
+        lookup kern;
+} kern;
+
+

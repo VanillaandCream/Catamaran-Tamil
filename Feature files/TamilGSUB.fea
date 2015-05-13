@@ -1,0 +1,176 @@
+##--------------- Groups ---------------##
+@MATRA_U_1 = [tm_Nga tm_Pa tm_Ya tm_Va];
+
+@MATRA_UU_1 = [tm_Nya tm_Nna tm_Ta tm_Na tm_Nnna tm_Rra tm_La];
+@MATRA_UU_2 = [tm_NyU tm_NnU tm_TU tm_NU tm_NnnU tm_RrU tm_LU];
+
+@MATRA_I_1 = [tm_Ja tm_Ma tm_Rra tm_Llla tm_Sha tm_Ha];
+@MATRA_I_2 = [tm_Ssa tm_KSsa];
+@MATRA_I_3 = [tm_Ka tm_Ta];
+@MATRA_I_4 = [tm_Nya tm_Na];
+
+##--------------- Language Systems ---------------##
+
+languagesystem DFLT dflt;
+languagesystem taml dflt;
+languagesystem tml2 dflt;
+
+##--------------- Independent Lookups ---------------##
+
+#---- AKHN ----
+
+lookup akhands {
+    sub tm_Ka tm_Virama tm_Ssa by tm_KSsa;
+    sub tm_Sha tm_Virama tm_Ra tm_VowelIi by tm_Shree;
+    sub tm_Sa tm_Virama tm_Ra tm_VowelIi by tm_Shree;
+} akhands;
+
+#---- ABVS ----
+
+lookup above_base_sub_1 {
+    sub tm_Tta tm_VowelI by tm_TtI;
+    sub tm_Tta tm_VowelIi by tm_TtIi;
+} above_base_sub_1;
+
+#---- PSTS ----
+ 
+lookup post_base_sub_1 {
+    sub tm_Ka tm_VowelU by tm_KU;
+    sub tm_Ca tm_VowelU by tm_CU;
+    sub tm_Nya tm_VowelU by tm_NyU;
+    sub tm_Tta tm_VowelU by tm_TtU;
+    sub tm_Nna tm_VowelU by tm_NnU;
+    sub tm_Ta tm_VowelU by tm_TU;
+    sub tm_Na tm_VowelU by tm_NU;
+    sub tm_Nnna tm_VowelU by tm_NnnU;
+    sub tm_Ma tm_VowelU by tm_MU;
+    sub tm_Ra tm_VowelU by tm_RU;
+    sub tm_Rra tm_VowelU by tm_RrU;
+    sub tm_La tm_VowelU by tm_LU;
+    sub tm_Lla tm_VowelU by tm_LlU;
+    sub tm_Llla tm_VowelU by tm_LllU;  
+} post_base_sub_1; 
+ 
+lookup post_base_sub_2 {
+    sub tm_Ka tm_VowelUu by tm_KUu;
+    sub tm_Nga tm_VowelUu by tm_NgUu;
+    sub tm_Ca tm_VowelUu by tm_CUu;
+    sub tm_Tta tm_VowelUu by tm_TtUu;
+    sub tm_Pa tm_VowelUu by tm_PUu;
+    sub tm_Ya tm_VowelUu by tm_YUu;
+    sub tm_Ma tm_VowelUu by tm_MUu;
+    sub tm_Ra tm_VowelUu by tm_RUu;
+    sub tm_Lla tm_VowelUu by tm_LlUu;
+    sub tm_Llla tm_VowelUu by tm_LllUu;
+    sub tm_Va tm_VowelUu by tm_VUu;
+ } post_base_sub_2;  
+ 
+lookup post_base_sub_3 {
+    sub @MATRA_UU_1' tm_VowelUu by @MATRA_UU_2;
+    sub @MATRA_UU_2 tm_VowelUu' by tm_VowelUu.alt1;
+ } post_base_sub_3;
+ 
+lookup post_base_sub_4 {
+    sub @MATRA_I_1 tm_VowelI' by tm_VowelI.alt1;
+ } post_base_sub_4;   
+
+lookup post_base_sub_5 {
+    sub @MATRA_I_2 tm_VowelI' by tm_VowelI.alt2;
+ } post_base_sub_5;
+ 
+lookup post_base_sub_6 {
+    sub @MATRA_I_3 tm_VowelI' by tm_VowelI.alt3;
+ } post_base_sub_6;
+ 
+lookup post_base_sub_7 {
+    sub @MATRA_I_4 tm_VowelI' by tm_VowelI.alt4;
+ } post_base_sub_7;
+ 
+lookup post_base_sub_8 {
+    sub @MATRA_U_1 tm_VowelU' by tm_VowelU.alt1;
+ } post_base_sub_8;
+
+#---- SALT ----
+
+lookup stylistic_alternates_1 {
+    sub tm_Ra' [tm_Virama tm_Anusvara tm_VowelI tm_VowelIi] by tm_VowelAa;
+} stylistic_alternates_1;
+
+lookup stylistic_alternates_2 {
+    sub tm_VowelAi' [tm_Nna tm_Nnna tm_La tm_Lla] by tm_VowelAi.alt;
+} stylistic_alternates_2;
+
+
+##--------------- Lookups ---------------##
+
+feature akhn {
+    script taml;
+        lookup akhands;
+    script tml2;
+        lookup akhands;
+} akhn;
+
+#-------------
+
+feature abvs {
+    script taml;
+        lookup above_base_sub_1;
+    script tml2;
+        lookup above_base_sub_1;
+} abvs;
+
+#-------------
+
+feature psts {
+    script taml;
+        lookup post_base_sub_1;
+        lookup post_base_sub_2;
+        lookup post_base_sub_3;
+        lookup post_base_sub_4;
+        lookup post_base_sub_5;
+        lookup post_base_sub_6;
+        lookup post_base_sub_7;
+        lookup post_base_sub_8;
+
+    script tml2;
+        lookup post_base_sub_1;
+        lookup post_base_sub_2;
+        lookup post_base_sub_3;
+        lookup post_base_sub_4;
+        lookup post_base_sub_5;
+        lookup post_base_sub_6;
+        lookup post_base_sub_7;
+        lookup post_base_sub_8;
+
+} psts;
+
+#-------------
+
+feature salt {
+    script taml;
+        lookup stylistic_alternates_1;
+        lookup stylistic_alternates_2;
+    script tml2;
+        lookup stylistic_alternates_1;
+        lookup stylistic_alternates_2;
+} salt;
+
+#-------------
+
+feature ss01 {
+    script taml;
+        lookup stylistic_alternates_1;
+    script tml2;
+        lookup stylistic_alternates_1;
+} ss01;
+
+#-------------
+
+feature ss02 {
+    script taml;
+        lookup stylistic_alternates_2;
+    script tml2;
+        lookup stylistic_alternates_2;
+} ss02;
+
+#-------------
