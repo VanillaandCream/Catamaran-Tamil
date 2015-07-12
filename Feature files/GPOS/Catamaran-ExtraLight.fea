@@ -9,62 +9,62 @@ languagesystem tml2 dflt;
 #---- ABVM ----
 
 lookup abvm_1 {
-    markClass [\tm_Anusvara ] <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
-    markClass [\tm_Virama ] <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
+    markClass tm_Anusvara <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
+    markClass tm_Virama <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
 
-    pos base \tm_Ca <anchor 372 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ha <anchor 1126 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ja <anchor 425 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ka <anchor 366 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_La <anchor 539 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Lla <anchor 646 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Llla <anchor 404 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ma <anchor 401 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Na <anchor 352 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Nga <anchor 477 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Nna <anchor 902 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Nnna <anchor 693 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Nya <anchor 663 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Pa <anchor 352 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ra <anchor 339 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Rra <anchor 382 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Sa <anchor 616 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Sha <anchor 519 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ssa <anchor 734 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ta <anchor 371 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Tta <anchor 430 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Va <anchor 552 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_Ya <anchor 412 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_VowelAa <anchor 325 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-    pos base \tm_KSsa <anchor 824 0> mark @MARKS_CLASS_0_LUT0_SUB0;
+    pos base tm_Ca <anchor 372 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ha <anchor 1126 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ja <anchor 425 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ka <anchor 366 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_La <anchor 539 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Lla <anchor 646 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Llla <anchor 502 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ma <anchor 479 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Na <anchor 352 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Nga <anchor 477 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Nna <anchor 902 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Nnna <anchor 693 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Nya <anchor 663 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Pa <anchor 352 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ra <anchor 339 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Rra <anchor 382 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Sa <anchor 616 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Sha <anchor 519 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ssa <anchor 734 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ta <anchor 371 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Tta <anchor 430 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Va <anchor 552 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_Ya <anchor 412 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_VowelAa <anchor 325 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
+    pos base tm_KSsa <anchor 824 0> mark @MARKS_CLASS_0_LUT0_SUB0 ;
 } abvm_1;
 
 lookup abvm_2 {
-    markClass [\tm_VowelIi ] <anchor 0 0> @MARKS_CLASS_0_LUT1_SUB0;
+    markClass tm_VowelIi <anchor 0 0> @MARKS_CLASS_0_LUT1_SUB0;
 
-    pos base \tm_Ca <anchor 675 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ha <anchor 1542 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ja <anchor 875 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ka <anchor 680 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_La <anchor 1038 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Lla <anchor 1208 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Llla <anchor 800 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ma <anchor 804 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Na <anchor 610 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Nga <anchor 1000 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Nna <anchor 1671 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Nnna <anchor 1285 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Nya <anchor 1057 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Pa <anchor 758 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ra <anchor 682 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Rra <anchor 793 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Sa <anchor 1314 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Sha <anchor 973 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ssa <anchor 1156 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ta <anchor 660 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Va <anchor 1064 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_Ya <anchor 945 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-    pos base \tm_KSsa <anchor 1309 0> mark @MARKS_CLASS_0_LUT1_SUB0;
+    pos base tm_Ca <anchor 675 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ha <anchor 1542 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ja <anchor 875 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ka <anchor 680 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_La <anchor 1038 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Lla <anchor 1208 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Llla <anchor 800 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ma <anchor 804 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Na <anchor 610 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Nga <anchor 1000 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Nna <anchor 1671 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Nnna <anchor 1285 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Nya <anchor 1057 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Pa <anchor 758 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ra <anchor 682 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Rra <anchor 793 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Sa <anchor 1314 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Sha <anchor 973 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ssa <anchor 1156 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ta <anchor 660 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Va <anchor 1064 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_Ya <anchor 945 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
+    pos base tm_KSsa <anchor 1309 0> mark @MARKS_CLASS_0_LUT1_SUB0 ;
 } abvm_2;
 
 lookup kern {
@@ -95,4 +95,3 @@ feature abvm {
 feature kern {
         lookup kern;
 } kern;
-
