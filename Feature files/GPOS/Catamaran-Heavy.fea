@@ -68,13 +68,6 @@ lookup abvm_2 {
 } abvm_2;
 
 lookup kern {
-    pos \tm_Ha \tm_VowelU <0 0 -40 0>;
-    pos \tm_Ha \tm_VowelUu <0 0 -40 0>;
-    pos \tm_Ja \tm_VowelU <0 0 5 0>;
-    pos \tm_Ja \tm_VowelUu <0 0 5 0>;
-    pos \tm_Sha \tm_VowelU <0 0 -70 0>;
-    pos \tm_Sha \tm_VowelUu <0 0 -70 0>;
- subtable;
     pos [ \tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark
          \tm_VowelAa \tm_VowelUu.alt1]
         [ \tm_Ca \tm_E \tm_Ee \tm_Ha \tm_Ka \tm_La \tm_Lla \tm_Nna \tm_Nnna \tm_Nya \tm_Sa
@@ -82,13 +75,13 @@ lookup kern {
          \tm_Thousand \tm_Merpadi \tm_Naal \tm_Varavu \tm_Varudam \tm_AuLengthMark
          \tm_VowelAi \tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_NnnU \tm_MU \tm_RU
          \tm_LU \tm_LlU \tm_CUu \tm_TtUu \tm_MUu \tm_RUu \tm_LlUu \tm_LllUu \tm_VUu
-         \tm_Shree] <0 0 -60 0>;
+         \tm_Shree] <0 0 -30 0>;
     pos [ \tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark
          \tm_VowelAa \tm_VowelUu.alt1]
-        [ \tm_A \tm_Aa \tm_Eight] <0 0 -80 0>;
+        [ \tm_A \tm_Aa \tm_Eight] <0 0 -50 0>;
     pos [ \tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark
          \tm_VowelAa \tm_VowelUu.alt1]
-        [ \tm_I] <0 0 -40 0>;
+        [ \tm_I] <0 0 -10 0>;
 } kern;
 
 ##--------------- Lookups ---------------##
