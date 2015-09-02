@@ -1,12 +1,12 @@
 ##--------------- Groups ---------------##
 @MATRA_U_1 = [tm_Nga tm_Pa tm_Ya tm_Va];
 @MATRA_U_2 = [tm_Sha];
-@MATRA_U_3 = [tm_Ha];
+@MATRA_U_3 = [tm_Sa tm_Ha];
 
 @MATRA_UU_1 = [tm_Nya tm_Nna tm_Ta tm_Na tm_Nnna tm_Rra tm_La];
 @MATRA_UU_2 = [tm_NyU tm_NnU tm_TU tm_NU tm_NnnU tm_RrU tm_LU];
 @MATRA_UU_3 = [tm_Sha];
-@MATRA_UU_4 = [tm_Ha];
+@MATRA_UU_4 = [tm_Sa tm_Ha];
 
 @MATRA_I_1 = [tm_Ja tm_Ma tm_Rra tm_Llla tm_Sha tm_Ha];
 @MATRA_I_2 = [tm_Ssa tm_KSsa];
@@ -139,7 +139,7 @@ feature psts {
         lookup post_base_sub_6;
         lookup post_base_sub_7;
         lookup post_base_sub_8;
-
+        lookup akhands;
     script tml2;
         lookup post_base_sub_1;
         lookup post_base_sub_2;
@@ -149,7 +149,7 @@ feature psts {
         lookup post_base_sub_6;
         lookup post_base_sub_7;
         lookup post_base_sub_8;
-
+        lookup akhands;
 } psts;
 
 #-------------
