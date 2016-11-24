@@ -8493,7 +8493,11 @@ width = 176;
 },
 {
 glyphname = dieresis.case;
+<<<<<<< HEAD
 lastChange = "2016-05-17 17:43:09 +0000";
+=======
+lastChange = "2016-05-17 17:22:51 +0000";
+>>>>>>> origin/master
 layers = (
 {
 anchors = (
@@ -18347,7 +18351,11 @@ unicode = 201D;
 },
 {
 glyphname = quotedblbase;
+<<<<<<< HEAD
 lastChange = "2016-05-04 10:43:29 +0000";
+=======
+lastChange = "2016-05-17 17:23:33 +0000";
+>>>>>>> origin/master
 layers = (
 {
 layerId = "601FF878-0EB3-47BC-931B-6B704884A184";
@@ -18405,27 +18413,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"292 120 OFFCURVE",
-"320 92 OFFCURVE",
-"320 48 CURVE SMOOTH",
-"320 -19 OFFCURVE",
-"272 -98 OFFCURVE",
-"209 -131 CURVE",
-"185 -86 LINE",
-"218 -61 OFFCURVE",
-"241 -39 OFFCURVE",
-"248 0 CURVE",
-"223 1 OFFCURVE",
-"198 31 OFFCURVE",
-"198 60 CURVE SMOOTH",
-"198 91 OFFCURVE",
-"226 120 OFFCURVE",
-"259 120 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "126 120 OFFCURVE",
 "155 92 OFFCURVE",
 "155 48 CURVE SMOOTH",
@@ -18442,6 +18429,27 @@ nodes = (
 "32 91 OFFCURVE",
 "60 120 OFFCURVE",
 "93 120 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 120 OFFCURVE",
+"320 92 OFFCURVE",
+"320 48 CURVE SMOOTH",
+"320 -19 OFFCURVE",
+"272 -98 OFFCURVE",
+"209 -131 CURVE",
+"185 -86 LINE",
+"218 -61 OFFCURVE",
+"241 -39 OFFCURVE",
+"248 0 CURVE",
+"223 1 OFFCURVE",
+"198 31 OFFCURVE",
+"198 60 CURVE SMOOTH",
+"198 91 OFFCURVE",
+"226 120 OFFCURVE",
+"259 120 CURVE SMOOTH"
 );
 }
 );
