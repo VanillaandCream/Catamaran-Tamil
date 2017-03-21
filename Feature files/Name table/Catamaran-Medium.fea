@@ -1,0 +1,31 @@
+table name {
+  nameid 0 1 0 0 "Copyright 2014 The Catamaran Authors (pria.ravichandran@gmail.com)";
+  nameid 1 1 0 0 "Catamaran";
+  nameid 2 1 0 0 "Medium";
+  nameid 3 1 0 0 "1.100;PYRS;Catamaran-Medium";
+  nameid 4 1 0 0 "Catamaran Medium";
+  nameid 5 1 0 0 "Version 1.100";
+  nameid 6 1 0 0 "Catamaran-Medium";
+  nameid 8 1 0 0 "Pria Ravichandran";
+  nameid 9 1 0 0 "Pria Ravichandran";
+  nameid 11 1 0 0 "https://github.com/VanillaandCream";
+  nameid 12 1 0 0 "https://github.com/VanillaandCream";
+  nameid 13 1 0 0 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+  nameid 14 1 0 0 "http://scripts.sil.org/OFL";
+  nameid 0 3 1 1033 "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)";
+  nameid 1 3 1 1033 "Catamaran Medium";
+  nameid 2 3 1 1033 "Regular";
+  nameid 3 3 1 1033 "1.100;PYRS;Catamaran-Medium";
+  nameid 4 3 1 1033 "Catamaran Medium";
+  nameid 5 3 1 1033 "Version 1.100";
+  nameid 6 3 1 1033 "Catamaran-Medium";
+  nameid 8 3 1 1033 "Pria Ravichandran";
+  nameid 9 3 1 1033 "Pria Ravichandran";
+  nameid 11 3 1 1033 "https://github.com/VanillaandCream";
+  nameid 12 3 1 1033 "https://github.com/VanillaandCream";
+  nameid 13 3 1 1033 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+  nameid 14 3 1 1033 "http://scripts.sil.org/OFL";
+  nameid 16 3 1 1033 "Catamaran";
+  nameid 17 3 1 1033 "Medium";
+} name;
+
