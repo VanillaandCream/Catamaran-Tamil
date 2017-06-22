@@ -7948,7 +7948,7 @@ unicode = 02DC;
 },
 {
 glyphname = hungarumlaut;
-lastChange = "2015-05-10 21:39:18 +0000";
+lastChange = "2017-06-22 11:38:44 +0000";
 layers = (
 {
 anchors = (
@@ -7992,19 +7992,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"257 610 LINE",
-"323 787 LINE",
-"503 787 LINE",
-"389 588 LINE"
+"10 610 LINE",
+"76 787 LINE",
+"256 787 LINE",
+"142 588 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"10 610 LINE",
-"76 787 LINE",
-"256 787 LINE",
-"142 588 LINE"
+"257 610 LINE",
+"323 787 LINE",
+"503 787 LINE",
+"389 588 LINE"
 );
 }
 );
