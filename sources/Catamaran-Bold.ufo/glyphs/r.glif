@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="367"/>
+  <unicode hex="0072"/>
+  <anchor x="121" y="0" name="bottom"/>
+  <anchor x="199" y="485" name="top"/>
+  <outline>
+    <contour>
+      <point x="185" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="485" type="line"/>
+      <point x="123" y="485" type="line"/>
+      <point x="166" y="404" type="line"/>
+      <point x="206" y="439"/>
+      <point x="279" y="485"/>
+      <point x="331" y="485" type="curve"/>
+      <point x="357" y="381" type="line"/>
+      <point x="313" y="381"/>
+      <point x="241" y="345"/>
+      <point x="185" y="296" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

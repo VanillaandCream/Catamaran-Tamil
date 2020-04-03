@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="176"/>
+  <unicode hex="0060"/>
+  <anchor x="112" y="485" name="_top"/>
+  <outline>
+    <contour>
+      <point x="100" y="589" type="line"/>
+      <point x="10" y="747" type="line"/>
+      <point x="112" y="747" type="line"/>
+      <point x="166" y="606" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Tta" format="2">
+  <advance width="739"/>
+  <unicode hex="0B9F"/>
+  <outline>
+    <contour>
+      <point x="714" y="129" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="513" type="line"/>
+      <point x="244" y="518" type="line"/>
+      <point x="244" y="129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

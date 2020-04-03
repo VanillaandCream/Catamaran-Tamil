@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="542"/>
+  <unicode hex="0045"/>
+  <anchor x="411" y="0" name="bottom"/>
+  <anchor x="295" y="680" name="topU"/>
+  <outline>
+    <contour>
+      <point x="522" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="680" type="line"/>
+      <point x="473" y="680" type="line"/>
+      <point x="486" y="606" type="line"/>
+      <point x="186" y="606" type="line"/>
+      <point x="186" y="383" type="line"/>
+      <point x="417" y="383" type="line"/>
+      <point x="430" y="309" type="line"/>
+      <point x="186" y="309" type="line"/>
+      <point x="186" y="75" type="line"/>
+      <point x="509" y="75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="2">
+  <advance width="637"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="680" type="line"/>
+      <point x="547" y="680" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="453" y="607" type="line"/>
+      <point x="183" y="607" type="line"/>
+      <point x="183" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

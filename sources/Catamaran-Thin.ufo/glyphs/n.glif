@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="500"/>
+  <unicode hex="006E"/>
+  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="261" y="485" name="top"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="70" y="485" type="line"/>
+      <point x="108" y="485" type="line"/>
+      <point x="118" y="409" type="line"/>
+      <point x="159" y="457"/>
+      <point x="230" y="498"/>
+      <point x="290" y="498" type="curve" smooth="yes"/>
+      <point x="394" y="498"/>
+      <point x="434" y="430"/>
+      <point x="434" y="337" type="curve" smooth="yes"/>
+      <point x="434" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="337" type="line" smooth="yes"/>
+      <point x="385" y="404"/>
+      <point x="367" y="457"/>
+      <point x="294" y="457" type="curve" smooth="yes"/>
+      <point x="236" y="457"/>
+      <point x="175" y="416"/>
+      <point x="119" y="359" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

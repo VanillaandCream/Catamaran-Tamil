@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="222"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="30" y="221" type="line"/>
+      <point x="30" y="269" type="line"/>
+      <point x="180" y="408" type="line"/>
+      <point x="202" y="339" type="line"/>
+      <point x="107" y="245" type="line"/>
+      <point x="202" y="150" type="line"/>
+      <point x="180" y="83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

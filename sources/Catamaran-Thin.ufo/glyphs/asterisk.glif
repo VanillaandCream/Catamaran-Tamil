@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="313"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="172" y="774" type="line"/>
+      <point x="172" y="654" type="line"/>
+      <point x="290" y="685" type="line"/>
+      <point x="303" y="653" type="line"/>
+      <point x="187" y="624" type="line"/>
+      <point x="266" y="505" type="line"/>
+      <point x="235" y="489" type="line"/>
+      <point x="156" y="602" type="line"/>
+      <point x="82" y="489" type="line"/>
+      <point x="46" y="505" type="line"/>
+      <point x="125" y="624" type="line"/>
+      <point x="10" y="653" type="line"/>
+      <point x="22" y="685" type="line"/>
+      <point x="137" y="654" type="line"/>
+      <point x="137" y="774" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

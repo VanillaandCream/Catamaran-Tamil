@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Pa" format="2">
+  <advance width="728"/>
+  <unicode hex="0BAA"/>
+  <outline>
+    <contour>
+      <point x="638" y="513" type="line"/>
+      <point x="552" y="513" type="line"/>
+      <point x="552" y="68" type="line"/>
+      <point x="176" y="68" type="line"/>
+      <point x="176" y="518" type="line"/>
+      <point x="90" y="513" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

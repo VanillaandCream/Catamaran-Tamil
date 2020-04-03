@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde" format="2">
+  <advance width="493"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <component base="a"/>
+    <component base="tilde" xOffset="79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.case" format="2">
+  <advance width="234"/>
+  <anchor x="119" y="680" name="_topU"/>
+  <outline>
+    <contour>
+      <point x="117" y="943" type="curve" smooth="yes"/>
+      <point x="174" y="943"/>
+      <point x="224" y="899"/>
+      <point x="224" y="842" type="curve" smooth="yes"/>
+      <point x="224" y="785"/>
+      <point x="174" y="744"/>
+      <point x="117" y="744" type="curve" smooth="yes"/>
+      <point x="60" y="744"/>
+      <point x="10" y="785"/>
+      <point x="10" y="842" type="curve" smooth="yes"/>
+      <point x="10" y="899"/>
+      <point x="60" y="943"/>
+    </contour>
+    <contour>
+      <point x="117" y="802" type="curve" smooth="yes"/>
+      <point x="138" y="802"/>
+      <point x="156" y="821"/>
+      <point x="156" y="842" type="curve" smooth="yes"/>
+      <point x="156" y="863"/>
+      <point x="138" y="881"/>
+      <point x="117" y="881" type="curve" smooth="yes"/>
+      <point x="96" y="881"/>
+      <point x="77" y="863"/>
+      <point x="77" y="842" type="curve" smooth="yes"/>
+      <point x="77" y="821"/>
+      <point x="96" y="802"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek" format="2">
+  <advance width="509"/>
+  <unicode hex="0105"/>
+  <outline>
+    <contour>
+      <point x="345" y="54" type="curve"/>
+      <point x="463" y="0" type="line"/>
+      <point x="450" y="-17"/>
+      <point x="431" y="-59"/>
+      <point x="431" y="-84" type="curve" smooth="yes"/>
+      <point x="431" y="-100"/>
+      <point x="443" y="-116"/>
+      <point x="460" y="-116" type="curve" smooth="yes"/>
+      <point x="473" y="-116"/>
+      <point x="485" y="-113"/>
+      <point x="504" y="-96" type="curve"/>
+      <point x="565" y="-198" type="line"/>
+      <point x="542" y="-225"/>
+      <point x="495" y="-245"/>
+      <point x="442" y="-245" type="curve" smooth="yes"/>
+      <point x="345" y="-245"/>
+      <point x="294" y="-173"/>
+      <point x="294" y="-108" type="curve" smooth="yes"/>
+      <point x="294" y="-73"/>
+      <point x="295" y="-31"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

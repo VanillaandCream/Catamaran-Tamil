@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="556"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="514" y="101" type="line"/>
+      <point x="214" y="101" type="line"/>
+      <point x="214" y="305.506" type="line"/>
+      <point x="370" y="423" type="line"/>
+      <point x="320" y="514" type="line"/>
+      <point x="214" y="433.911" type="line"/>
+      <point x="214" y="680" type="line"/>
+      <point x="85" y="680" type="line"/>
+      <point x="85" y="336.445" type="line"/>
+      <point x="5" y="276" type="line"/>
+      <point x="54" y="185" type="line"/>
+      <point x="85" y="208.348" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

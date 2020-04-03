@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Three" format="2">
+  <advance width="814"/>
+  <unicode hex="0BE9"/>
+  <outline>
+    <contour>
+      <point x="386" y="478" type="line"/>
+      <point x="587" y="478" type="line"/>
+      <point x="582" y="513" type="line"/>
+      <point x="100" y="513" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="478" type="line"/>
+      <point x="342" y="478" type="line"/>
+      <point x="342" y="142" type="line"/>
+      <point x="386" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="35" type="line"/>
+      <point x="586" y="35" type="line"/>
+      <point x="638" y="67"/>
+      <point x="669" y="122"/>
+      <point x="669" y="195" type="curve" smooth="yes"/>
+      <point x="669" y="291"/>
+      <point x="612" y="365"/>
+      <point x="514" y="365" type="curve" smooth="yes"/>
+      <point x="418" y="365"/>
+      <point x="348" y="290"/>
+      <point x="348" y="187" type="curve"/>
+      <point x="386" y="187" type="line"/>
+      <point x="386" y="266"/>
+      <point x="438" y="322"/>
+      <point x="511" y="322" type="curve" smooth="yes"/>
+      <point x="581" y="322"/>
+      <point x="621" y="268"/>
+      <point x="621" y="197" type="curve" smooth="yes"/>
+      <point x="621" y="104"/>
+      <point x="554" y="35"/>
+      <point x="460" y="35" type="curve" smooth="yes"/>
+      <point x="342" y="35" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="804" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>
