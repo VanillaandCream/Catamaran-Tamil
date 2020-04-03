@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_VowelUu.alt1" format="2">
+  <advance width="434"/>
+  <outline>
+    <contour>
+      <point x="243" y="422" type="line"/>
+      <point x="424" y="422" type="line"/>
+      <point x="406" y="513" type="line"/>
+      <point x="-201" y="513" type="line"/>
+      <point x="-201" y="422" type="line"/>
+      <point x="127" y="422" type="line"/>
+      <point x="127" y="-165" type="line"/>
+      <point x="243" y="-165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

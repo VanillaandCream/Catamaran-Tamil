@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="765"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="336" y="680" type="line"/>
+      <point x="349" y="608" type="line"/>
+      <point x="218" y="608" type="line"/>
+      <point x="218" y="305" type="line"/>
+      <point x="127" y="305" type="line"/>
+      <point x="127" y="608" type="line"/>
+      <point x="10" y="608" type="line"/>
+      <point x="10" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="579" y="408" type="line"/>
+      <point x="551" y="403" type="line"/>
+      <point x="473" y="489" type="line"/>
+      <point x="473" y="305" type="line"/>
+      <point x="380" y="305" type="line"/>
+      <point x="380" y="680" type="line"/>
+      <point x="426" y="680" type="line"/>
+      <point x="563" y="517" type="line"/>
+      <point x="687" y="680" type="line"/>
+      <point x="730" y="680" type="line"/>
+      <point x="730" y="305" type="line"/>
+      <point x="637" y="305" type="line"/>
+      <point x="637" y="477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

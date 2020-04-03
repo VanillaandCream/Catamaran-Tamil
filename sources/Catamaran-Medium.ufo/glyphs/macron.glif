@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="271"/>
+  <unicode hex="00AF"/>
+  <anchor x="142" y="485" name="_top"/>
+  <outline>
+    <contour>
+      <point x="10" y="626" type="line"/>
+      <point x="10" y="702" type="line"/>
+      <point x="252" y="702" type="line"/>
+      <point x="261" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

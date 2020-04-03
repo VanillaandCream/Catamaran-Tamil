@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="432"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="216" y="301" type="line"/>
+      <point x="107" y="143" type="line"/>
+      <point x="10" y="143" type="line"/>
+      <point x="182" y="390" type="line"/>
+      <point x="251" y="390" type="line"/>
+      <point x="422" y="143" type="line"/>
+      <point x="325" y="143" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

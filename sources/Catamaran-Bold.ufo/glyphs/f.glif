@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="373"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="12" y="384" type="line"/>
+      <point x="12" y="484" type="line"/>
+      <point x="87" y="484" type="line"/>
+      <point x="87" y="521" type="line" smooth="yes"/>
+      <point x="87" y="633"/>
+      <point x="156" y="702"/>
+      <point x="276" y="702" type="curve" smooth="yes"/>
+      <point x="307" y="702"/>
+      <point x="352" y="688"/>
+      <point x="373" y="671" type="curve"/>
+      <point x="336" y="577" type="line"/>
+      <point x="316" y="585"/>
+      <point x="298" y="590"/>
+      <point x="282" y="590" type="curve" smooth="yes"/>
+      <point x="237" y="590"/>
+      <point x="217" y="554"/>
+      <point x="217" y="503" type="curve" smooth="yes"/>
+      <point x="217" y="484" type="line"/>
+      <point x="309" y="484" type="line"/>
+      <point x="350" y="384" type="line"/>
+      <point x="217" y="384" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="87" y="384" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

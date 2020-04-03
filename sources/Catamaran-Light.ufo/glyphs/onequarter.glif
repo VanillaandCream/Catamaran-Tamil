@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="724"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="704" y="-31" type="line"/>
+      <point x="700" y="-75" type="line"/>
+      <point x="627" y="-75" type="line"/>
+      <point x="627" y="-163" type="line"/>
+      <point x="575" y="-163" type="line"/>
+      <point x="575" y="-75" type="line"/>
+      <point x="342" y="-75" type="line"/>
+      <point x="337" y="-31" type="line"/>
+      <point x="591" y="321" type="line"/>
+      <point x="627" y="321" type="line"/>
+      <point x="627" y="-31" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="220" type="line"/>
+      <point x="395" y="-31" type="line"/>
+      <point x="575" y="-31" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="700" type="line"/>
+      <point x="596" y="700" type="line"/>
+      <point x="105" y="-134" type="line"/>
+      <point x="45" y="-134" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="336" type="line"/>
+      <point x="117" y="336" type="line"/>
+      <point x="117" y="705" type="line"/>
+      <point x="33" y="663" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="136" y="765" type="line"/>
+      <point x="172" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_VowelU.alt1" format="2">
+  <outline>
+    <contour>
+      <point x="-85" y="-188" type="line"/>
+      <point x="-85" y="46" type="line"/>
+      <point x="-201" y="46" type="line"/>
+      <point x="-201" y="-197" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

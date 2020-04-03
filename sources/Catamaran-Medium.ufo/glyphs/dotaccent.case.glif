@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.case" format="2">
+  <advance width="140"/>
+  <anchor x="72" y="680" name="_topU"/>
+  <outline>
+    <contour>
+      <point x="71" y="756" type="curve" smooth="yes"/>
+      <point x="38" y="756"/>
+      <point x="10" y="783"/>
+      <point x="10" y="816" type="curve" smooth="yes"/>
+      <point x="10" y="849"/>
+      <point x="38" y="877"/>
+      <point x="71" y="877" type="curve" smooth="yes"/>
+      <point x="104" y="877"/>
+      <point x="130" y="849"/>
+      <point x="130" y="816" type="curve" smooth="yes"/>
+      <point x="130" y="783"/>
+      <point x="104" y="756"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_VowelAa" format="2">
+  <advance width="699"/>
+  <unicode hex="0BBE"/>
+  <outline>
+    <contour>
+      <point x="508" y="422" type="line"/>
+      <point x="689" y="422" type="line"/>
+      <point x="671" y="513" type="line"/>
+      <point x="85" y="513" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="201" y="422" type="line"/>
+      <point x="392" y="422" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

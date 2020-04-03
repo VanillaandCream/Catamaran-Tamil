@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="583"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="400" y="195" type="line"/>
+      <point x="361" y="155"/>
+      <point x="329" y="129"/>
+      <point x="297" y="129" type="curve" smooth="yes"/>
+      <point x="240" y="129"/>
+      <point x="208" y="169"/>
+      <point x="208" y="243" type="curve" smooth="yes"/>
+      <point x="208" y="318"/>
+      <point x="244" y="362"/>
+      <point x="289" y="362" type="curve" smooth="yes"/>
+      <point x="324" y="362"/>
+      <point x="361" y="342"/>
+      <point x="400" y="306" type="curve"/>
+      <point x="451" y="413" type="line"/>
+      <point x="395" y="477"/>
+      <point x="317" y="502"/>
+      <point x="277" y="502" type="curve" smooth="yes"/>
+      <point x="124" y="502"/>
+      <point x="20" y="415"/>
+      <point x="20" y="242" type="curve" smooth="yes"/>
+      <point x="20" y="69"/>
+      <point x="126" y="-11"/>
+      <point x="269" y="-11" type="curve" smooth="yes"/>
+      <point x="324" y="-11"/>
+      <point x="415" y="34"/>
+      <point x="451" y="78" type="curve"/>
+    </contour>
+    <contour>
+      <point x="523" y="550" type="line"/>
+      <point x="583" y="550" type="line"/>
+      <point x="566" y="663" type="line"/>
+      <point x="523" y="663" type="line"/>
+      <point x="523" y="706" type="line"/>
+      <point x="341" y="695" type="line"/>
+      <point x="341" y="663" type="line"/>
+      <point x="237" y="663" type="line"/>
+      <point x="254" y="550" type="line"/>
+      <point x="341" y="550" type="line"/>
+      <point x="341" y="117" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

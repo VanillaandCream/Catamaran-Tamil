@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Turkishlira" format="2">
+  <advance width="481"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="86" y="367" type="line"/>
+      <point x="8" y="339" type="line"/>
+      <point x="0" y="384" type="line"/>
+      <point x="86" y="415" type="line"/>
+      <point x="86" y="468" type="line"/>
+      <point x="8" y="441" type="line"/>
+      <point x="0" y="486" type="line"/>
+      <point x="86" y="516" type="line"/>
+      <point x="86" y="696" type="line"/>
+      <point x="148" y="706" type="line"/>
+      <point x="148" y="538" type="line"/>
+      <point x="337" y="605" type="line"/>
+      <point x="346" y="561" type="line"/>
+      <point x="148" y="491" type="line"/>
+      <point x="148" y="436" type="line"/>
+      <point x="337" y="503" type="line"/>
+      <point x="346" y="458" type="line"/>
+      <point x="148" y="389" type="line"/>
+      <point x="148" y="51" type="line"/>
+      <point x="265" y="51"/>
+      <point x="398" y="183"/>
+      <point x="398" y="331" type="curve"/>
+      <point x="461" y="331" type="line"/>
+      <point x="461" y="151"/>
+      <point x="303" y="0"/>
+      <point x="148" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="282"/>
+  <unicode hex="02C6"/>
+  <anchor x="144" y="485" name="_top"/>
+  <outline>
+    <contour>
+      <point x="140" y="698" type="line"/>
+      <point x="65" y="589" type="line"/>
+      <point x="10" y="599" type="line"/>
+      <point x="110" y="742" type="line"/>
+      <point x="170" y="742" type="line"/>
+      <point x="272" y="599" type="line"/>
+      <point x="214" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="383"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="192" y="268" type="line"/>
+      <point x="192" y="222" type="line"/>
+      <point x="43" y="83" type="line"/>
+      <point x="20" y="147" type="line"/>
+      <point x="119" y="245" type="line"/>
+      <point x="20" y="343" type="line"/>
+      <point x="43" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="268" type="line"/>
+      <point x="353" y="222" type="line"/>
+      <point x="203" y="83" type="line"/>
+      <point x="181" y="147" type="line"/>
+      <point x="280" y="245" type="line"/>
+      <point x="181" y="343" type="line"/>
+      <point x="203" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

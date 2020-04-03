@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_VowelOo" format="2">
+  <advance width="1814"/>
+  <unicode hex="0BCB"/>
+  <outline>
+    <component base="tm_VowelEe"/>
+    <component base="tm_VowelAa" xOffset="1145"/>
+    <component base="uni25CC" xOffset="609"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

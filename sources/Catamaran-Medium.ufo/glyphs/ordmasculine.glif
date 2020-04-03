@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="384"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="191" y="702" type="curve" smooth="yes"/>
+      <point x="291" y="702"/>
+      <point x="354" y="636"/>
+      <point x="354" y="531" type="curve" smooth="yes"/>
+      <point x="354" y="428"/>
+      <point x="285" y="363"/>
+      <point x="189" y="363" type="curve" smooth="yes"/>
+      <point x="92" y="363"/>
+      <point x="30" y="427"/>
+      <point x="30" y="532" type="curve" smooth="yes"/>
+      <point x="30" y="636"/>
+      <point x="96" y="702"/>
+    </contour>
+    <contour>
+      <point x="192" y="632" type="curve" smooth="yes"/>
+      <point x="153" y="632"/>
+      <point x="115" y="604"/>
+      <point x="115" y="532" type="curve" smooth="yes"/>
+      <point x="115" y="464"/>
+      <point x="147" y="432"/>
+      <point x="190" y="432" type="curve" smooth="yes"/>
+      <point x="233" y="432"/>
+      <point x="268" y="462"/>
+      <point x="268" y="531" type="curve" smooth="yes"/>
+      <point x="268" y="599"/>
+      <point x="237" y="632"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="645"/>
+  <outline>
+    <contour>
+      <point x="94" y="696" type="line"/>
+      <point x="550" y="696" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="645" type="line"/>
+      <point x="157" y="645" type="line"/>
+      <point x="157" y="50" type="line"/>
+      <point x="487" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

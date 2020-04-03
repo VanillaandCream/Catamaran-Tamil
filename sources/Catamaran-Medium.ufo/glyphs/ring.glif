@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="215"/>
+  <unicode hex="02DA"/>
+  <anchor x="111" y="485" name="_top"/>
+  <outline>
+    <contour>
+      <point x="108" y="776" type="curve" smooth="yes"/>
+      <point x="160" y="776"/>
+      <point x="205" y="736"/>
+      <point x="205" y="683" type="curve" smooth="yes"/>
+      <point x="205" y="631"/>
+      <point x="160" y="594"/>
+      <point x="108" y="594" type="curve" smooth="yes"/>
+      <point x="55" y="594"/>
+      <point x="10" y="631"/>
+      <point x="10" y="683" type="curve" smooth="yes"/>
+      <point x="10" y="736"/>
+      <point x="55" y="776"/>
+    </contour>
+    <contour>
+      <point x="108" y="642" type="curve" smooth="yes"/>
+      <point x="131" y="642"/>
+      <point x="149" y="662"/>
+      <point x="149" y="683" type="curve" smooth="yes"/>
+      <point x="149" y="707"/>
+      <point x="131" y="725"/>
+      <point x="108" y="725" type="curve" smooth="yes"/>
+      <point x="85" y="725"/>
+      <point x="66" y="707"/>
+      <point x="66" y="683" type="curve" smooth="yes"/>
+      <point x="66" y="662"/>
+      <point x="85" y="642"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>

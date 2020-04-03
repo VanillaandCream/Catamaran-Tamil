@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_LlU" format="2">
+  <advance width="1683"/>
+  <outline>
+    <contour>
+      <point x="1110" y="-194" type="curve" smooth="yes"/>
+      <point x="589" y="-194" type="line" smooth="yes"/>
+      <point x="346" y="-189"/>
+      <point x="186" y="-49"/>
+      <point x="186" y="168" type="curve" smooth="yes"/>
+      <point x="186" y="302"/>
+      <point x="247" y="444"/>
+      <point x="329" y="513" type="curve"/>
+      <point x="210" y="523" type="line"/>
+      <point x="126" y="445"/>
+      <point x="65" y="296"/>
+      <point x="65" y="170" type="curve" smooth="yes"/>
+      <point x="65" y="-106"/>
+      <point x="276" y="-286"/>
+      <point x="589" y="-286" type="curve" smooth="yes"/>
+      <point x="1110" y="-286" type="line" smooth="yes"/>
+      <point x="1434" y="-286"/>
+      <point x="1638" y="-139"/>
+      <point x="1638" y="94" type="curve" smooth="yes"/>
+      <point x="1638" y="239"/>
+      <point x="1559" y="346"/>
+      <point x="1436" y="346" type="curve" smooth="yes"/>
+      <point x="1330" y="346"/>
+      <point x="1253" y="272"/>
+      <point x="1253" y="169" type="curve"/>
+      <point x="1339" y="169" type="line"/>
+      <point x="1339" y="213"/>
+      <point x="1374" y="246"/>
+      <point x="1423" y="246" type="curve" smooth="yes"/>
+      <point x="1482" y="246"/>
+      <point x="1516" y="182"/>
+      <point x="1516" y="94" type="curve" smooth="yes"/>
+      <point x="1516" y="-80"/>
+      <point x="1364" y="-194"/>
+    </contour>
+    <component base="tm_Lla" xOffset="268"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/04/03 13:53:26</string>
+    </dict>
+  </lib>
+</glyph>
