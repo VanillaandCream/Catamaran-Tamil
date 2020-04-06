@@ -17,6 +17,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>EnjvvPbr0g</string>
         <key>x</key>
         <integer>729</integer>
         <key>y</key>
@@ -25,6 +27,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>1du2rwdGIb</string>
         <key>x</key>
         <integer>643</integer>
         <key>y</key>
@@ -53,6 +57,18 @@
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>PYRS</string>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-125</integer>
     <key>postscriptUnderlineThickness</key>
