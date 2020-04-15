@@ -6,35 +6,35 @@
     <contour>
       <point x="57" y="0" type="line"/>
       <point x="47" y="101" type="line"/>
-      <point x="106" y="102"/>
-      <point x="120" y="136"/>
-      <point x="120" y="187" type="curve" smooth="yes"/>
+      <point x="91.02985074626865" y="101.74626865671642"/>
+      <point x="120.0" y="148.9402985074627"/>
+      <point x="120" y="187" type="qcurve" smooth="yes"/>
       <point x="120" y="291" type="line"/>
       <point x="45" y="291" type="line"/>
       <point x="45" y="390" type="line"/>
       <point x="120" y="390" type="line"/>
       <point x="120" y="503" type="line" smooth="yes"/>
-      <point x="120" y="615"/>
-      <point x="190" y="684"/>
-      <point x="310" y="684" type="curve" smooth="yes"/>
-      <point x="342" y="684"/>
-      <point x="387" y="671"/>
-      <point x="408" y="652" type="curve"/>
+      <point x="120.0" y="586.5820895522388"/>
+      <point x="220.44776119402985" y="684.0"/>
+      <point x="310" y="684" type="qcurve" smooth="yes"/>
+      <point x="333.88059701492534" y="684.0"/>
+      <point x="392.32835820895525" y="666.179104477612"/>
+      <point x="408" y="652" type="qcurve"/>
       <point x="370" y="560" type="line"/>
-      <point x="351" y="568"/>
-      <point x="332" y="572"/>
-      <point x="316" y="572" type="curve" smooth="yes"/>
-      <point x="269" y="572"/>
-      <point x="251" y="535"/>
-      <point x="251" y="486" type="curve" smooth="yes"/>
+      <point x="355.82089552238807" y="565.9701492537314"/>
+      <point x="327.94029850746267" y="572.0"/>
+      <point x="316" y="572" type="qcurve" smooth="yes"/>
+      <point x="280.92537313432837" y="572.0"/>
+      <point x="251.0" y="522.5671641791045"/>
+      <point x="251" y="486" type="qcurve" smooth="yes"/>
       <point x="251" y="390" type="line"/>
       <point x="369" y="390" type="line"/>
       <point x="412" y="291" type="line"/>
       <point x="251" y="291" type="line"/>
       <point x="251" y="200" type="line" smooth="yes"/>
-      <point x="251" y="163"/>
-      <point x="245" y="128"/>
-      <point x="230" y="101" type="curve"/>
+      <point x="251.0" y="172.38805970149255"/>
+      <point x="241.19402985074626" y="121.14925373134328"/>
+      <point x="230" y="101" type="qcurve"/>
       <point x="476" y="101" type="line"/>
       <point x="496" y="0" type="line"/>
     </contour>
