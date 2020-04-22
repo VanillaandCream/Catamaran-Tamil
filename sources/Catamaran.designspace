@@ -5,7 +5,6 @@
       <map input="100" output="49"/>
       <map input="200" output="55"/>
       <map input="300" output="62"/>
-      <map input="400" output="62"/>
       <map input="500" output="96"/>
       <map input="600" output="112"/>
       <map input="700" output="129"/>
