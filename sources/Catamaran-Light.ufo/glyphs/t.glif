@@ -17,7 +17,7 @@
       <point x="261" y="50" type="curve"/>
       <point x="273" y="-1" type="line"/>
       <point x="256" y="-8"/>
-      <point x="233.90488077094935" y="-13.0"/>
+      <point x="233.905" y="-13"/>
       <point x="207" y="-13" type="curve" smooth="yes"/>
       <point x="136" y="-13"/>
       <point x="89" y="32"/>
@@ -31,10 +31,4 @@
       <point x="152" y="475" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

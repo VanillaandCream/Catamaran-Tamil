@@ -5,9 +5,11 @@
     <key>com.github.googlei18n.ufo2ft.useProductionNames</key>
     <false/>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1308</string>
+    <string>1286</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -24,8 +26,6 @@
     <integer>129</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>5</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>24C3257D-BF04-43D4-ADFB-51EF390723A7</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -1285,6 +1285,130 @@
       <string>dv_RephCandraBindu</string>
       <string>dv_RephAnusvara</string>
       <string>dv_MatraAaRephAnusvara</string>
+      <string>tm_LllUu</string>
+      <string>tm_Llla</string>
+      <string>tm_Ya</string>
+      <string>tm_Seven</string>
+      <string>tm_Merpadi</string>
+      <string>tm_O</string>
+      <string>tm_VowelU.alt2</string>
+      <string>tm_Nya</string>
+      <string>Tcommaaccent</string>
+      <string>tm_VowelE</string>
+      <string>tm_Nna</string>
+      <string>tm_VowelUu.alt1</string>
+      <string>tm_Oo</string>
+      <string>tm_Aa</string>
+      <string>tm_A</string>
+      <string>tm_Uu</string>
+      <string>tm_Sha</string>
+      <string>tm_Ee</string>
+      <string>tm_Sa</string>
+      <string>tm_CU</string>
+      <string>tm_VowelAi</string>
+      <string>tm_MUu</string>
+      <string>tm_Ssa</string>
+      <string>tm_VowelAa</string>
+      <string>tm_VowelI</string>
+      <string>tm_TtU</string>
+      <string>tcommaaccent</string>
+      <string>tm_Va</string>
+      <string>tm_VowelIi</string>
+      <string>tm_Pa</string>
+      <string>Gcommaaccent</string>
+      <string>tm_LlU</string>
+      <string>tm_Tta</string>
+      <string>lcommaaccent</string>
+      <string>tm_Four</string>
+      <string>tm_U</string>
+      <string>tm_Patru</string>
+      <string>tm_Rra</string>
+      <string>tm_LllU</string>
+      <string>tm_Enn</string>
+      <string>rcommaaccent</string>
+      <string>tm_Thousand</string>
+      <string>tm_Varavu</string>
+      <string>tm_Five</string>
+      <string>tm_Nnna</string>
+      <string>tm_Shree</string>
+      <string>tm_Anusvara</string>
+      <string>tm_Lla</string>
+      <string>tm_VowelI.alt4</string>
+      <string>ncommaaccent</string>
+      <string>tm_Eight</string>
+      <string>tm_Rupee</string>
+      <string>tm_VowelO</string>
+      <string>tm_Maatham</string>
+      <string>tm_VUu</string>
+      <string>tm_Ka</string>
+      <string>tm_VowelU</string>
+      <string>tm_KU</string>
+      <string>tm_Zero</string>
+      <string>tm_LlUu</string>
+      <string>tm_E</string>
+      <string>tm_AuLengthMark</string>
+      <string>tm_Visarga</string>
+      <string>tm_La</string>
+      <string>Lcommaaccent</string>
+      <string>tm_VowelAi.alt</string>
+      <string>tm_Varudam</string>
+      <string>tm_I</string>
+      <string>tm_KUu</string>
+      <string>tm_Na</string>
+      <string>tm_NU</string>
+      <string>tm_Nga</string>
+      <string>tm_Ma</string>
+      <string>tm_VowelI.alt1</string>
+      <string>tm_VowelI.alt2</string>
+      <string>tm_VowelUu.alt2</string>
+      <string>tm_Six</string>
+      <string>tm_Ta</string>
+      <string>tm_RU</string>
+      <string>tm_Hundred</string>
+      <string>tm_Ai</string>
+      <string>tm_TtI</string>
+      <string>Rcommaaccent</string>
+      <string>tm_TtIi</string>
+      <string>tm_NyU</string>
+      <string>tm_CUu</string>
+      <string>tm_NnU</string>
+      <string>tm_Three</string>
+      <string>tm_MU</string>
+      <string>tm_RUu</string>
+      <string>tm_Ten</string>
+      <string>tm_RrU</string>
+      <string>tm_Ca</string>
+      <string>tm_TtUu</string>
+      <string>gcommaaccent</string>
+      <string>tm_VowelOo</string>
+      <string>tm_Nine</string>
+      <string>tm_NgUu</string>
+      <string>tm_VowelU.alt1</string>
+      <string>tm_VowelI.alt3</string>
+      <string>tm_VowelAu</string>
+      <string>Ncommaaccent</string>
+      <string>tm_VowelEe</string>
+      <string>tm_Two</string>
+      <string>tm_Virama</string>
+      <string>kcommaaccent</string>
+      <string>tm_KSsa</string>
+      <string>tm_Om</string>
+      <string>tm_LU</string>
+      <string>tm_Ja</string>
+      <string>tm_Ra</string>
+      <string>Kcommaaccent</string>
+      <string>tm_TU</string>
+      <string>tm_VowelUu</string>
+      <string>tm_VowelUu.alt3</string>
+      <string>tm_Ha</string>
+      <string>tm_One</string>
+      <string>tm_VowelU.alt3</string>
+      <string>tm_NnnU</string>
+      <string>tm_Naal</string>
+      <string>tm_Au</string>
+      <string>tm_YUu</string>
+      <string>tm_Ii</string>
+      <string>tm_PUu</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

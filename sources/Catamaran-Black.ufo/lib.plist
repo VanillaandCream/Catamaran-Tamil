@@ -5,11 +5,13 @@
     <key>com.github.googlei18n.ufo2ft.useProductionNames</key>
     <false/>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1308</string>
+    <string>1286</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Black</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -26,8 +28,6 @@
     <integer>182</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>5</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>12413328-B98D-4C90-AAAC-8248DDAE45D4</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>4</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

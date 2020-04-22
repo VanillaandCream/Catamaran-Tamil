@@ -45,227 +45,68 @@
     </source>
   </sources>
   <instances>
-    <instance name="Catamaran Thin" familyname="Catamaran" stylename="Thin" filename="instance_ufos/Catamaran-Thin.ufo">
+    <instance name="Catamaran Thin" familyname="Catamaran" stylename="Thin" filename="instance_ufos/Catamaran-Thin.ufo" stylemapfamilyname="Catamaran Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="49"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>7D7A15B1-26C3-429D-8003-112E9373A587</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Thin</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran ExtraLight" familyname="Catamaran" stylename="ExtraLight" filename="instance_ufos/Catamaran-ExtraLight.ufo">
+    <instance name="Catamaran ExtraLight" familyname="Catamaran" stylename="ExtraLight" filename="instance_ufos/Catamaran-ExtraLight.ufo" stylemapfamilyname="Catamaran ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="55"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>601FF878-0EB3-47BC-931B-6B704884A184</key>
-            <real>0.46154</real>
-            <key>7D7A15B1-26C3-429D-8003-112E9373A587</key>
-            <real>0.53846</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraLight</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran Light" familyname="Catamaran" stylename="Light" filename="instance_ufos/Catamaran-Light.ufo">
+    <instance name="Catamaran Light" familyname="Catamaran" stylename="Light" filename="instance_ufos/Catamaran-Light.ufo" stylemapfamilyname="Catamaran Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="62"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>601FF878-0EB3-47BC-931B-6B704884A184</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran Regular" familyname="Catamaran" stylename="Regular" filename="instance_ufos/Catamaran-Regular.ufo">
+    <instance name="Catamaran Regular" familyname="Catamaran" stylename="Regular" filename="instance_ufos/Catamaran-Regular.ufo" stylemapfamilyname="Catamaran" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="62"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>601FF878-0EB3-47BC-931B-6B704884A184</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran Medium" familyname="Catamaran" stylename="Medium" filename="instance_ufos/Catamaran-Medium.ufo">
+    <instance name="Catamaran Medium" familyname="Catamaran" stylename="Medium" filename="instance_ufos/Catamaran-Medium.ufo" stylemapfamilyname="Catamaran Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="96"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>E854A3C3-7B98-494E-8852-CB9ED5BB8961</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran SemiBold" familyname="Catamaran" stylename="SemiBold" filename="instance_ufos/Catamaran-SemiBold.ufo">
+    <instance name="Catamaran SemiBold" familyname="Catamaran" stylename="SemiBold" filename="instance_ufos/Catamaran-SemiBold.ufo" stylemapfamilyname="Catamaran SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="112"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>24C3257D-BF04-43D4-ADFB-51EF390723A7</key>
-            <real>0.48485</real>
-            <key>E854A3C3-7B98-494E-8852-CB9ED5BB8961</key>
-            <real>0.51515</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran Bold" familyname="Catamaran" stylename="Bold" filename="instance_ufos/Catamaran-Bold.ufo">
+    <instance name="Catamaran Bold" familyname="Catamaran" stylename="Bold" filename="instance_ufos/Catamaran-Bold.ufo" stylemapfamilyname="Catamaran" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="129"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>24C3257D-BF04-43D4-ADFB-51EF390723A7</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran ExtraBold" familyname="Catamaran" stylename="ExtraBold" filename="instance_ufos/Catamaran-ExtraBold.ufo">
+    <instance name="Catamaran ExtraBold" familyname="Catamaran" stylename="ExtraBold" filename="instance_ufos/Catamaran-ExtraBold.ufo" stylemapfamilyname="Catamaran ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="156"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>12413328-B98D-4C90-AAAC-8248DDAE45D4</key>
-            <real>0.50943</real>
-            <key>24C3257D-BF04-43D4-ADFB-51EF390723A7</key>
-            <real>0.49057</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Catamaran Black" familyname="Catamaran" stylename="Black" filename="instance_ufos/Catamaran-Black.ufo">
+    <instance name="Catamaran Black" familyname="Catamaran" stylename="Black" filename="instance_ufos/Catamaran-Black.ufo" stylemapfamilyname="Catamaran Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="182"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>12413328-B98D-4C90-AAAC-8248DDAE45D4</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
   </instances>
 </designspace>
