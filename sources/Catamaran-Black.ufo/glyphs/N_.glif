@@ -10,14 +10,14 @@
       <point x="80" y="0" type="line"/>
       <point x="80" y="680" type="line"/>
       <point x="249" y="680" type="line"/>
-      <point x="511" y="311" type="line"/>
-      <point x="511" y="419" type="line"/>
+      <point x="462" y="380" type="line"/>
+      <point x="514" y="311" type="line"/>
       <point x="511" y="680" type="line"/>
       <point x="693" y="680" type="line"/>
       <point x="693" y="0" type="line"/>
       <point x="523" y="0" type="line"/>
+      <point x="313" y="288" type="line"/>
       <point x="262" y="358" type="line"/>
-      <point x="262" y="256" type="line"/>
     </contour>
   </outline>
   <lib>

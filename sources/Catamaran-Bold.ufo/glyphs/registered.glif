@@ -46,6 +46,9 @@
       <point x="539" y="304" type="line"/>
       <point x="436" y="304" type="line"/>
       <point x="374" y="447" type="line"/>
+      <point x="365" y="447"/>
+      <point x="356" y="447"/>
+      <point x="347" y="447" type="curve"/>
       <point x="320" y="447" type="line"/>
       <point x="320" y="304" type="line"/>
       <point x="228" y="304" type="line"/>
