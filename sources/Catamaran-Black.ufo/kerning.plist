@@ -5,32 +5,32 @@
     <key>public.kern1.R1</key>
     <dict>
       <key>public.kern2.L1</key>
-      <integer>-0</integer>
+      <integer>0</integer>
       <key>public.kern2.L2</key>
-      <integer>-0</integer>
+      <integer>0</integer>
       <key>public.kern2.L3</key>
-      <integer>-0</integer>
+      <integer>0</integer>
     </dict>
     <key>tm_Ha</key>
     <dict>
       <key>tm_VowelU</key>
-      <integer>-0</integer>
+      <integer>0</integer>
       <key>tm_VowelUu</key>
-      <integer>-0</integer>
+      <integer>0</integer>
     </dict>
     <key>tm_Ja</key>
     <dict>
       <key>tm_VowelU</key>
-      <integer>-0</integer>
+      <integer>0</integer>
       <key>tm_VowelUu</key>
-      <integer>-0</integer>
+      <integer>0</integer>
     </dict>
     <key>tm_Sha</key>
     <dict>
       <key>tm_VowelU</key>
-      <integer>-0</integer>
+      <integer>0</integer>
       <key>tm_VowelUu</key>
-      <integer>-0</integer>
+      <integer>0</integer>
     </dict>
   </dict>
 </plist>
