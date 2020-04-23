@@ -5,6 +5,7 @@
       <map input="100" output="49"/>
       <map input="200" output="55"/>
       <map input="300" output="62"/>
+      <map input="400" output="79"/>
       <map input="500" output="96"/>
       <map input="600" output="112"/>
       <map input="700" output="129"/>
@@ -67,7 +68,7 @@
     </instance>
     <instance name="Catamaran Regular" familyname="Catamaran" stylename="Regular" filename="instance_ufos/Catamaran-Regular.ufo" stylemapfamilyname="Catamaran" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="62"/>
+        <dimension name="Weight" xvalue="79"/>
       </location>
       <kerning/>
       <info/>
