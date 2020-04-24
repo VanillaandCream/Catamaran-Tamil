@@ -3,38 +3,8 @@
   <advance width="820"/>
   <unicode hex="00BC"/>
   <outline>
-    <contour>
-      <point x="800" y="-8" type="line"/>
-      <point x="793" y="-78" type="line"/>
-      <point x="716" y="-78" type="line"/>
-      <point x="716" y="-164" type="line"/>
-      <point x="631" y="-164" type="line"/>
-      <point x="631" y="-78" type="line"/>
-      <point x="415" y="-78" type="line"/>
-      <point x="407" y="-8" type="line"/>
-      <point x="657" y="321" type="line"/>
-      <point x="716" y="321" type="line"/>
-      <point x="716" y="-8" type="line"/>
-    </contour>
-    <contour>
-      <point x="631" y="171" type="line"/>
-      <point x="496" y="-8" type="line"/>
-      <point x="631" y="-8" type="line"/>
-    </contour>
-    <contour>
-      <point x="571" y="700" type="line"/>
-      <point x="672" y="700" type="line"/>
-      <point x="155" y="-134" type="line"/>
-      <point x="55" y="-134" type="line"/>
-    </contour>
-    <contour>
-      <point x="208" y="336" type="line"/>
-      <point x="121" y="336" type="line"/>
-      <point x="121" y="676" type="line"/>
-      <point x="44" y="637" type="line"/>
-      <point x="10" y="697" type="line"/>
-      <point x="151" y="764" type="line"/>
-      <point x="208" y="764" type="line"/>
-    </contour>
+    <component base="onesuperior"/>
+    <component base="foursuperior" xOffset="397" yOffset="-446"/>
+    <component base="fraction" xOffset="154"/>
   </outline>
 </glyph>
