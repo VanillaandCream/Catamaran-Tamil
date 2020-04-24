@@ -2,6 +2,8 @@
 <glyph name="tm_Sha" format="2">
   <advance width="998"/>
   <unicode hex="0BB6"/>
+  <anchor x="524" y="0" name="abvm1"/>
+  <anchor x="963" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="749" y="513" type="curve" smooth="yes"/>

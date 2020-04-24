@@ -5,11 +5,11 @@
     <key>public.kern1.R1</key>
     <dict>
       <key>public.kern2.L1</key>
-      <integer>0</integer>
+      <integer>-60</integer>
       <key>public.kern2.L2</key>
-      <integer>0</integer>
+      <integer>-80</integer>
       <key>public.kern2.L3</key>
-      <integer>0</integer>
+      <integer>-40</integer>
     </dict>
     <key>tm_Ha</key>
     <dict>

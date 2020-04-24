@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tm_Virama" format="2">
   <unicode hex="0BCD"/>
+  <anchor x="0" y="0" name="_abvm1"/>
   <outline>
     <contour>
       <point x="0" y="638" type="curve" smooth="yes"/>

@@ -2,6 +2,8 @@
 <glyph name="tm_Nnna" format="2">
   <advance width="1284"/>
   <unicode hex="0BA9"/>
+  <anchor x="683" y="0" name="abvm1"/>
+  <anchor x="1285" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="1029" y="0" type="line"/>

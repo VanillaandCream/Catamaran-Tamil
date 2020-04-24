@@ -2,6 +2,8 @@
 <glyph name="tm_Ta" format="2">
   <advance width="790"/>
   <unicode hex="0BA4"/>
+  <anchor x="395" y="0" name="abvm1"/>
+  <anchor x="709" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="513" y="219" type="line" smooth="yes"/>

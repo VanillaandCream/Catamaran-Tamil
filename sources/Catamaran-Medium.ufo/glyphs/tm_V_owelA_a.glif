@@ -2,6 +2,7 @@
 <glyph name="tm_VowelAa" format="2">
   <advance width="673"/>
   <unicode hex="0BBE"/>
+  <anchor x="325" y="0" name="abvm1"/>
   <outline>
     <contour>
       <point x="480" y="446" type="line"/>

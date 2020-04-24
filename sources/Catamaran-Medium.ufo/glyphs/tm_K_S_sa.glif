@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tm_KSsa" format="2">
   <advance width="1609"/>
+  <anchor x="833" y="0" name="abvm1"/>
+  <anchor x="1407" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="1147" y="531" type="curve" smooth="yes"/>

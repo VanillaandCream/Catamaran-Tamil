@@ -2,6 +2,8 @@
 <glyph name="tm_Ka" format="2">
   <advance width="771"/>
   <unicode hex="0B95"/>
+  <anchor x="376" y="0" name="abvm1"/>
+  <anchor x="704" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="503" y="205" type="curve" smooth="yes"/>

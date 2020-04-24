@@ -2,6 +2,8 @@
 <glyph name="tm_Ja" format="2">
   <advance width="821"/>
   <unicode hex="0B9C"/>
+  <anchor x="410" y="0" name="abvm1"/>
+  <anchor x="860" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="474" y="274" type="line"/>
