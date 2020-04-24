@@ -46,9 +46,7 @@
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeOS2Type</key>
-    <array>
-      <integer>3</integer>
-    </array>
+    <array/>
     <key>openTypeOS2TypoAscender</key>
     <integer>770</integer>
     <key>openTypeOS2TypoDescender</key>
