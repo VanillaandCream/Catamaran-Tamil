@@ -13,7 +13,7 @@ rm -rf ../fonts
 mkdir -p ../fonts
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m Catamaran.designspace -i -o ttf --keep-overlaps --output-dir ../fonts/ttf/
+fontmake -m Catamaran.designspace -i -o ttf --keep-overlaps --expand-features-to-instances --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
 fontmake -m Catamaran.designspace -o variable --output-path ../fonts/variable/Catamaran[wght].ttf
