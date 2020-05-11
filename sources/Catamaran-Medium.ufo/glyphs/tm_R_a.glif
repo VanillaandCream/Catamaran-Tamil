@@ -2,6 +2,8 @@
 <glyph name="tm_Ra" format="2">
   <advance width="693"/>
   <unicode hex="0BB0"/>
+  <anchor x="320" y="0" name="abvm1"/>
+  <anchor x="731" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="683" y="446" type="line"/>
@@ -24,10 +26,4 @@
       <point x="500" y="446" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

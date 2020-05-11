@@ -64,17 +64,11 @@
       <point x="428" y="231" type="curve" smooth="yes"/>
       <point x="440" y="325" type="line"/>
       <point x="438" y="325" type="line" smooth="yes"/>
-      <point x="390.0" y="325.0"/>
+      <point x="390" y="325"/>
       <point x="367" y="285"/>
       <point x="367" y="237" type="curve" smooth="yes"/>
       <point x="367" y="220"/>
       <point x="378" y="199"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

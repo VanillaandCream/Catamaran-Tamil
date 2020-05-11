@@ -3,34 +3,28 @@
   <advance width="286"/>
   <outline>
     <contour>
-      <point x="-120" y="797" type="qcurve" smooth="yes"/>
-      <point x="-237.910447761194" y="797.0"/>
-      <point x="-378.0" y="678.8358208955224"/>
-      <point x="-378" y="596" type="qcurve" smooth="yes"/>
-      <point x="-377.25373134328356" y="557.1940298507462"/>
-      <point x="-347.86567164179104" y="488.13432835820896"/>
-      <point x="-321" y="465" type="qcurve"/>
+      <point x="-120" y="797" type="curve" smooth="yes"/>
+      <point x="-278" y="797"/>
+      <point x="-378" y="707"/>
+      <point x="-378" y="596" type="curve" smooth="yes"/>
+      <point x="-377" y="544"/>
+      <point x="-357" y="496"/>
+      <point x="-321" y="465" type="curve"/>
       <point x="-217" y="508" type="line"/>
-      <point x="-240.88059701492537" y="517.7014925373135"/>
-      <point x="-263.0" y="565.4029850746268"/>
-      <point x="-263" y="596" type="qcurve" smooth="yes"/>
-      <point x="-263.0" y="639.2835820895523"/>
-      <point x="-188.65671641791045" y="701.0"/>
-      <point x="-120" y="701" type="qcurve" smooth="yes"/>
-      <point x="-24.477611940298516" y="701.0"/>
-      <point x="85.0" y="591.0597014925373"/>
-      <point x="85" y="503" type="qcurve" smooth="yes"/>
+      <point x="-249" y="521"/>
+      <point x="-263" y="555"/>
+      <point x="-263" y="596" type="curve" smooth="yes"/>
+      <point x="-263" y="654"/>
+      <point x="-212" y="701"/>
+      <point x="-120" y="701" type="curve" smooth="yes"/>
+      <point x="8" y="701"/>
+      <point x="85" y="621"/>
+      <point x="85" y="503" type="curve" smooth="yes"/>
       <point x="85" y="0" type="line"/>
       <point x="201" y="0" type="line"/>
       <point x="201" y="503" type="line" smooth="yes"/>
-      <point x="201.0" y="630.6119402985074"/>
-      <point x="25.522388059701484" y="797.0"/>
+      <point x="201" y="674"/>
+      <point x="75" y="797"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

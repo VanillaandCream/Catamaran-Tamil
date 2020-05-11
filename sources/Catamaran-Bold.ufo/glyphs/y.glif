@@ -5,7 +5,7 @@
   <anchor x="247" y="486" name="top"/>
   <outline>
     <contour>
-      <point x="154" y="-23" type="qcurve" smooth="yes"/>
+      <point x="154" y="-23" type="curve" smooth="yes"/>
       <point x="177" y="34" type="line"/>
       <point x="10" y="465" type="line"/>
       <point x="138" y="503" type="line"/>
@@ -13,18 +13,12 @@
       <point x="356" y="485" type="line"/>
       <point x="493" y="485" type="line"/>
       <point x="276" y="-64" type="line" smooth="yes"/>
-      <point x="252.86567164179104" y="-122.955223880597"/>
-      <point x="136.43283582089552" y="-207.07462686567163"/>
-      <point x="73" y="-222" type="qcurve"/>
+      <point x="245" y="-143"/>
+      <point x="158" y="-202"/>
+      <point x="73" y="-222" type="curve"/>
       <point x="27" y="-115" type="line"/>
-      <point x="62.07462686567164" y="-100.07462686567165"/>
-      <point x="141.3134328358209" y="-56.582089552238806"/>
+      <point x="74" y="-95"/>
+      <point x="137" y="-68"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

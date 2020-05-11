@@ -7,10 +7,4 @@
     <component base="tm_VowelAa" xOffset="1280"/>
     <component base="uni25CC" xOffset="733"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

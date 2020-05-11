@@ -2,6 +2,8 @@
 <glyph name="tm_Ssa" format="2">
   <advance width="1405"/>
   <unicode hex="0BB7"/>
+  <anchor x="734" y="0" name="abvm1"/>
+  <anchor x="1210" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="1325" y="446" type="line"/>
@@ -94,10 +96,4 @@
       <point x="591" y="531"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

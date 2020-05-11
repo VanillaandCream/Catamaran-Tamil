@@ -6,7 +6,7 @@
     <contour>
       <point x="782" y="240" type="line"/>
       <point x="782" y="247" type="line" smooth="yes"/>
-      <point x="782.0" y="390.0"/>
+      <point x="782" y="390"/>
       <point x="719" y="499"/>
       <point x="579" y="499" type="curve" smooth="yes"/>
       <point x="501" y="499"/>
@@ -75,10 +75,4 @@
       <point x="223" y="240" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

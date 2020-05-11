@@ -4,22 +4,16 @@
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="88" y="87" type="qcurve" smooth="yes"/>
+      <point x="88" y="87" type="curve" smooth="yes"/>
       <point x="88" y="680" type="line"/>
       <point x="219" y="680" type="line"/>
       <point x="219" y="68" type="line" smooth="yes"/>
-      <point x="219.0" y="-0.6567164179104452"/>
-      <point x="151.55223880597015" y="-72.8955223880597"/>
-      <point x="62" y="-102" type="qcurve"/>
+      <point x="219" y="-24"/>
+      <point x="182" y="-63"/>
+      <point x="62" y="-102" type="curve"/>
       <point x="10" y="-6" type="line"/>
-      <point x="62.98507462686567" y="12.656716417910445"/>
-      <point x="88.0" y="45.2089552238806"/>
+      <point x="81" y="19"/>
+      <point x="88" y="31"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

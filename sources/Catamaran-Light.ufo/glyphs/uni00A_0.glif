@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni00A0" format="2">
-  <advance width="236"/>
+  <advance width="235"/>
   <unicode hex="00A0"/>
   <outline>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

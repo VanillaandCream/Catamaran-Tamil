@@ -11,19 +11,13 @@
       <point x="55" y="485" type="line"/>
       <point x="123" y="485" type="line"/>
       <point x="166" y="404" type="line"/>
-      <point x="195.8507462686567" y="430.1194029850746"/>
-      <point x="292.1940298507463" y="485.0"/>
-      <point x="331" y="485" type="qcurve"/>
+      <point x="206" y="439"/>
+      <point x="279" y="485"/>
+      <point x="331" y="485" type="curve"/>
       <point x="357" y="381" type="line"/>
-      <point x="324.1641791044776" y="381.0"/>
-      <point x="226.7910447761194" y="332.56716417910445"/>
-      <point x="185" y="296" type="qcurve"/>
+      <point x="313" y="381"/>
+      <point x="241" y="345"/>
+      <point x="185" y="296" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

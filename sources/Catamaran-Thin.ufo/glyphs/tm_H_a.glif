@@ -2,6 +2,8 @@
 <glyph name="tm_Ha" format="2">
   <advance width="1531"/>
   <unicode hex="0BB9"/>
+  <anchor x="1140" y="0" name="abvm1"/>
+  <anchor x="1542" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="551" y="0" type="line"/>
@@ -102,10 +104,4 @@
       <point x="551" y="35" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

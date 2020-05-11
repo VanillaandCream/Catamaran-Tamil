@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tm_Virama" format="2">
   <unicode hex="0BCD"/>
+  <anchor x="0" y="0" name="_abvm1"/>
   <outline>
     <contour>
       <point x="0" y="632" type="curve" smooth="yes"/>
@@ -17,10 +18,4 @@
       <point x="23" y="632"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

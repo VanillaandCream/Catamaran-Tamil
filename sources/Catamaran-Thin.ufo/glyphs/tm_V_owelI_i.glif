@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tm_VowelIi" format="2">
   <unicode hex="0BC0"/>
+  <anchor x="0" y="0" name="_abvm2"/>
   <outline>
     <contour>
       <point x="-164" y="878" type="curve" smooth="yes"/>
@@ -49,10 +50,4 @@
       <point x="-37" y="878"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

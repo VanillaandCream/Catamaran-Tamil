@@ -2,6 +2,8 @@
 <glyph name="tm_Ka" format="2">
   <advance width="723"/>
   <unicode hex="0B95"/>
+  <anchor x="381" y="0" name="abvm1"/>
+  <anchor x="680" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="453" y="205" type="curve" smooth="yes"/>
@@ -48,10 +50,4 @@
       <point x="453" y="58"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

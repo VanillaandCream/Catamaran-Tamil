@@ -3,44 +3,8 @@
   <advance width="710"/>
   <unicode hex="00BC"/>
   <outline>
-    <contour>
-      <point x="690" y="-31" type="line"/>
-      <point x="686" y="-65" type="line"/>
-      <point x="605" y="-65" type="line"/>
-      <point x="605" y="-163" type="line"/>
-      <point x="561" y="-163" type="line"/>
-      <point x="561" y="-65" type="line"/>
-      <point x="328" y="-65" type="line"/>
-      <point x="324" y="-31" type="line"/>
-      <point x="577" y="321" type="line"/>
-      <point x="605" y="321" type="line"/>
-      <point x="605" y="-31" type="line"/>
-    </contour>
-    <contour>
-      <point x="561" y="238" type="line"/>
-      <point x="371" y="-31" type="line"/>
-      <point x="561" y="-31" type="line"/>
-    </contour>
-    <contour>
-      <point x="531" y="700" type="line"/>
-      <point x="576" y="700" type="line"/>
-      <point x="75" y="-134" type="line"/>
-      <point x="25" y="-134" type="line"/>
-    </contour>
-    <contour>
-      <point x="160" y="336" type="line"/>
-      <point x="117" y="336" type="line"/>
-      <point x="117" y="716" type="line"/>
-      <point x="33" y="675" type="line"/>
-      <point x="10" y="700" type="line"/>
-      <point x="136" y="765" type="line"/>
-      <point x="160" y="765" type="line"/>
-    </contour>
+    <component base="onesuperior"/>
+    <component base="foursuperior" xOffset="314" yOffset="-447"/>
+    <component base="fraction" xOffset="113"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

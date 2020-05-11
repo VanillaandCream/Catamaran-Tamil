@@ -2,6 +2,8 @@
 <glyph name="tm_Rra" format="2">
   <advance width="846"/>
   <unicode hex="0BB1"/>
+  <anchor x="407" y="0" name="abvm1"/>
+  <anchor x="837" y="5" name="abvm2"/>
   <outline>
     <contour>
       <point x="568" y="531" type="curve" smooth="yes"/>
@@ -51,10 +53,4 @@
       <point x="718" y="531"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

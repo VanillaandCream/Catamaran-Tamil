@@ -2,6 +2,8 @@
 <glyph name="tm_Lla" format="2">
   <advance width="1280"/>
   <unicode hex="0BB3"/>
+  <anchor x="690" y="0" name="abvm1"/>
+  <anchor x="1316" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="214" y="237" type="curve" smooth="yes"/>
@@ -60,10 +62,4 @@
       <point x="214" y="164"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

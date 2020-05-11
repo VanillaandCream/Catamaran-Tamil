@@ -3,78 +3,8 @@
   <advance width="901"/>
   <unicode hex="00BE"/>
   <outline>
-    <contour>
-      <point x="174" y="771" type="qcurve" smooth="yes"/>
-      <point x="254" y="771.0"/>
-      <point x="333.0" y="692"/>
-      <point x="333" y="639" type="qcurve" smooth="yes"/>
-      <point x="333.0" y="605"/>
-      <point x="293" y="549"/>
-      <point x="271" y="540" type="qcurve"/>
-      <point x="293" y="535"/>
-      <point x="341.0" y="473"/>
-      <point x="341" y="427" type="qcurve" smooth="yes"/>
-      <point x="341.0" y="365"/>
-      <point x="245" y="279.0"/>
-      <point x="164" y="279" type="qcurve" smooth="yes"/>
-      <point x="122" y="279.0"/>
-      <point x="34" y="303"/>
-      <point x="0" y="326" type="qcurve"/>
-      <point x="50" y="409" type="line"/>
-      <point x="80" y="391"/>
-      <point x="122" y="374.0"/>
-      <point x="150" y="374" type="qcurve" smooth="yes"/>
-      <point x="183" y="374.0"/>
-      <point x="220.0" y="404"/>
-      <point x="220" y="426" type="qcurve" smooth="yes"/>
-      <point x="220.0" y="459"/>
-      <point x="178" y="493.0"/>
-      <point x="138" y="493" type="qcurve" smooth="yes"/>
-      <point x="107" y="493" type="line"/>
-      <point x="94" y="583" type="line"/>
-      <point x="143" y="583" type="line" smooth="yes"/>
-      <point x="189" y="583.0"/>
-      <point x="212.0" y="621"/>
-      <point x="212" y="638" type="qcurve" smooth="yes"/>
-      <point x="212.0" y="657"/>
-      <point x="182" y="674.0"/>
-      <point x="156" y="674" type="qcurve" smooth="yes"/>
-      <point x="124" y="674.0"/>
-      <point x="81" y="651"/>
-      <point x="62" y="636" type="qcurve"/>
-      <point x="15" y="717" type="line"/>
-      <point x="52" y="741"/>
-      <point x="128" y="771.0"/>
-    </contour>
-    <contour>
-      <point x="881" y="15" type="line"/>
-      <point x="871" y="-81" type="line"/>
-      <point x="791" y="-81" type="line"/>
-      <point x="791" y="-165" type="line"/>
-      <point x="672" y="-165" type="line"/>
-      <point x="672" y="-81" type="line"/>
-      <point x="474" y="-81" type="line"/>
-      <point x="461" y="15" type="line"/>
-      <point x="709" y="322" type="line"/>
-      <point x="791" y="322" type="line"/>
-      <point x="791" y="15" type="line"/>
-    </contour>
-    <contour>
-      <point x="672" y="122" type="line"/>
-      <point x="581" y="15" type="line"/>
-      <point x="672" y="15" type="line"/>
-    </contour>
-    <contour>
-      <point x="660" y="700" type="line"/>
-      <point x="801" y="700" type="line"/>
-      <point x="214" y="-134" type="line"/>
-      <point x="74" y="-134" type="line"/>
-    </contour>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="210"/>
+    <component base="foursuperior" xOffset="452" yOffset="-447"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

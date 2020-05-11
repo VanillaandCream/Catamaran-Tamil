@@ -10,56 +10,50 @@
       <point x="71" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="42" y="279" type="qcurve"/>
+      <point x="42" y="279" type="curve"/>
       <point x="122" y="275" type="line"/>
-      <point x="122.0" y="303.35820895522386"/>
-      <point x="158.6417910447761" y="341.0"/>
-      <point x="187" y="341" type="qcurve" smooth="yes"/>
-      <point x="215.3582089552239" y="341.0"/>
-      <point x="253.0" y="303.35820895522386"/>
-      <point x="253" y="275" type="qcurve" smooth="yes"/>
-      <point x="253.0" y="247.38805970149255"/>
-      <point x="216.3582089552239" y="211.0"/>
-      <point x="188" y="211" type="qcurve" smooth="yes"/>
-      <point x="159.6417910447761" y="211.0"/>
-      <point x="122.0" y="247.38805970149255"/>
-      <point x="122" y="275" type="qcurve" smooth="yes"/>
-      <point x="122.0" y="342.1641791044776"/>
-      <point x="229.17910447761193" y="435.0"/>
-      <point x="315" y="435" type="qcurve" smooth="yes"/>
-      <point x="395.5970149253731" y="435.0"/>
-      <point x="486.0" y="342.4029850746268"/>
-      <point x="486" y="273" type="qcurve" smooth="yes"/>
-      <point x="486.0" y="193.8955223880597"/>
-      <point x="382.29850746268653" y="91.0"/>
-      <point x="292" y="91" type="qcurve"/>
+      <point x="122" y="313"/>
+      <point x="149" y="341"/>
+      <point x="187" y="341" type="curve" smooth="yes"/>
+      <point x="225" y="341"/>
+      <point x="253" y="313"/>
+      <point x="253" y="275" type="curve" smooth="yes"/>
+      <point x="253" y="238"/>
+      <point x="226" y="211"/>
+      <point x="188" y="211" type="curve" smooth="yes"/>
+      <point x="150" y="211"/>
+      <point x="122" y="238"/>
+      <point x="122" y="275" type="curve" smooth="yes"/>
+      <point x="122" y="365"/>
+      <point x="200" y="435"/>
+      <point x="315" y="435" type="curve" smooth="yes"/>
+      <point x="423" y="435"/>
+      <point x="486" y="366"/>
+      <point x="486" y="273" type="curve" smooth="yes"/>
+      <point x="486" y="167"/>
+      <point x="413" y="91"/>
+      <point x="292" y="91" type="curve"/>
       <point x="292" y="4" type="line"/>
-      <point x="435.2835820895522" y="4.0"/>
-      <point x="608.0" y="156.5820895522388"/>
-      <point x="608" y="273" type="qcurve" smooth="yes"/>
-      <point x="608.0" y="384.19402985074623"/>
-      <point x="447.8358208955224" y="531.0"/>
-      <point x="315" y="531" type="qcurve" smooth="yes"/>
-      <point x="196.34328358208955" y="531.0"/>
-      <point x="25.0" y="392.2238805970149"/>
-      <point x="25" y="287" type="qcurve" smooth="yes"/>
-      <point x="25.0" y="220.5820895522388"/>
-      <point x="118.35820895522389" y="134.0"/>
-      <point x="190" y="134" type="qcurve" smooth="yes"/>
-      <point x="259.4029850746268" y="134.0"/>
-      <point x="350.0" y="214.55223880597015"/>
-      <point x="350" y="275" type="qcurve" smooth="yes"/>
-      <point x="350.0" y="334.7014925373134"/>
-      <point x="272.1641791044776" y="412.0"/>
-      <point x="205" y="412" type="qcurve" smooth="yes"/>
-      <point x="137.83582089552237" y="412.0"/>
-      <point x="42.0" y="336.46268656716416"/>
+      <point x="484" y="4"/>
+      <point x="608" y="117"/>
+      <point x="608" y="273" type="curve" smooth="yes"/>
+      <point x="608" y="422"/>
+      <point x="493" y="531"/>
+      <point x="315" y="531" type="curve" smooth="yes"/>
+      <point x="156" y="531"/>
+      <point x="25" y="428"/>
+      <point x="25" y="287" type="curve" smooth="yes"/>
+      <point x="25" y="198"/>
+      <point x="94" y="134"/>
+      <point x="190" y="134" type="curve" smooth="yes"/>
+      <point x="283" y="134"/>
+      <point x="350" y="194"/>
+      <point x="350" y="275" type="curve" smooth="yes"/>
+      <point x="350" y="355"/>
+      <point x="295" y="412"/>
+      <point x="205" y="412" type="curve" smooth="yes"/>
+      <point x="115" y="412"/>
+      <point x="42" y="356"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

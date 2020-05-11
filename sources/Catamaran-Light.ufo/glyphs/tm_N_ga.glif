@@ -2,6 +2,8 @@
 <glyph name="tm_Nga" format="2">
   <advance width="954"/>
   <unicode hex="0B99"/>
+  <anchor x="497" y="0" name="abvm1"/>
+  <anchor x="1005" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="397" y="468" type="line"/>
@@ -46,10 +48,4 @@
       <point x="632" y="266"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>

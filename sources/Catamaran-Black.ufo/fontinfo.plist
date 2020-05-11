@@ -7,9 +7,9 @@
     <key>capHeight</key>
     <integer>680</integer>
     <key>copyright</key>
-    <string>Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)</string>
+    <string>Copyright 2020 The Catamaran Project Authors (https://github.com/VanillaandCream/Catamaran-Tamil)</string>
     <key>descender</key>
-    <integer>-500</integer>
+    <integer>-540</integer>
     <key>familyName</key>
     <string>Catamaran</string>
     <key>guidelines</key>
@@ -42,43 +42,37 @@
     <key>openTypeNameDesigner</key>
     <string>Pria Ravichandran</string>
     <key>openTypeNameLicense</key>
-    <string>Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
-    <key>openTypeOS2Type</key>
+    <key>openTypeOS2Selection</key>
     <array>
-      <integer>3</integer>
+      <integer>7</integer>
     </array>
+    <key>openTypeOS2Type</key>
+    <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>770</integer>
+    <integer>1100</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-230</integer>
+    <integer>-540</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>PYRS</string>
-    <key>postscriptBlueValues</key>
-    <array/>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
-    <key>postscriptOtherBlues</key>
-    <array/>
-    <key>postscriptStemSnapH</key>
-    <array/>
-    <key>postscriptStemSnapV</key>
-    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-125</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Catamaran Black</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
     <string>Black</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>

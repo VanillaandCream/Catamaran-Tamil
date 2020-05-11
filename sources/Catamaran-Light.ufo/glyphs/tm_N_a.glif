@@ -2,6 +2,8 @@
 <glyph name="tm_Na" format="2">
   <advance width="746"/>
   <unicode hex="0BA8"/>
+  <anchor x="352" y="0" name="abvm1"/>
+  <anchor x="625" y="0" name="abvm2"/>
   <outline>
     <contour>
       <point x="520" y="356" type="curve" smooth="yes"/>
@@ -44,10 +46,4 @@
       <point x="635" y="356"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/04/03 13:53:26</string>
-    </dict>
-  </lib>
 </glyph>
