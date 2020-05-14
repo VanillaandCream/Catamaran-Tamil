@@ -2,7 +2,6 @@
 <glyph name="dotaccent" format="2">
   <advance width="166"/>
   <unicode hex="02D9"/>
-  <anchor x="86" y="485" name="_top"/>
   <outline>
     <contour>
       <point x="84" y="594" type="curve" smooth="yes"/>
