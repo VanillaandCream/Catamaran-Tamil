@@ -51,6 +51,8 @@
     <integer>5</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>5368384976</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
@@ -1422,6 +1424,7 @@
       <string>tm_YUu</string>
       <string>tm_Ii</string>
       <string>tm_PUu</string>
+      <string>foursuperior</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
