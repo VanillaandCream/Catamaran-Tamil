@@ -4,5 +4,9 @@
   <dict>
     <key>N</key>
     <string>N_.glif</string>
+    <key>Oslash</key>
+    <string>O_slash.glif</string>
+    <key>oslash</key>
+    <string>oslash.glif</string>
   </dict>
 </plist>
