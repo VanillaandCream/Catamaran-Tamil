@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Pa" format="2">
+  <advance width="728"/>
+  <unicode hex="0BAA"/>
+  <anchor x="372" y="0" name="abvm1"/>
+  <anchor x="739" y="0" name="abvm2"/>
+  <outline>
+    <contour>
+      <point x="638" y="513" type="line"/>
+      <point x="552" y="513" type="line"/>
+      <point x="552" y="68" type="line"/>
+      <point x="176" y="68" type="line"/>
+      <point x="176" y="518" type="line"/>
+      <point x="90" y="513" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

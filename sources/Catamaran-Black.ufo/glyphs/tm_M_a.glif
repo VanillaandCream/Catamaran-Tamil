@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Ma" format="2">
+  <advance width="960"/>
+  <unicode hex="0BAE"/>
+  <anchor x="558" y="0" name="abvm1"/>
+  <anchor x="907" y="0" name="abvm2"/>
+  <outline>
+    <contour>
+      <point x="244" y="129" type="line"/>
+      <point x="643" y="129" type="line" smooth="yes"/>
+      <point x="721" y="129"/>
+      <point x="746" y="177"/>
+      <point x="746" y="244" type="curve" smooth="yes"/>
+      <point x="746" y="330"/>
+      <point x="715" y="393"/>
+      <point x="651" y="393" type="curve" smooth="yes"/>
+      <point x="586" y="393"/>
+      <point x="568" y="347"/>
+      <point x="568" y="284" type="curve" smooth="yes"/>
+      <point x="568" y="65" type="line"/>
+      <point x="404" y="56" type="line" smooth="yes"/>
+      <point x="404" y="292" type="line" smooth="yes"/>
+      <point x="404" y="430"/>
+      <point x="490" y="531"/>
+      <point x="649" y="531" type="curve" smooth="yes"/>
+      <point x="815" y="531"/>
+      <point x="920" y="410"/>
+      <point x="920" y="244" type="curve" smooth="yes"/>
+      <point x="920" y="103"/>
+      <point x="822" y="0"/>
+      <point x="643" y="0" type="curve" smooth="yes"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="513" type="line"/>
+      <point x="244" y="518" type="line"/>
+    </contour>
+  </outline>
+</glyph>

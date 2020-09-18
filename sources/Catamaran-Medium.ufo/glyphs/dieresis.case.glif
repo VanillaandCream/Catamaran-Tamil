@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.case" format="2">
+  <advance width="302"/>
+  <anchor x="155" y="680" name="_topU"/>
+  <outline>
+    <contour>
+      <point x="64" y="760" type="curve" smooth="yes"/>
+      <point x="35" y="760"/>
+      <point x="10" y="785"/>
+      <point x="10" y="814" type="curve" smooth="yes"/>
+      <point x="10" y="843"/>
+      <point x="35" y="868"/>
+      <point x="64" y="868" type="curve" smooth="yes"/>
+      <point x="95" y="868"/>
+      <point x="118" y="843"/>
+      <point x="118" y="814" type="curve" smooth="yes"/>
+      <point x="118" y="785"/>
+      <point x="95" y="760"/>
+    </contour>
+    <contour>
+      <point x="238" y="760" type="curve" smooth="yes"/>
+      <point x="209" y="760"/>
+      <point x="184" y="785"/>
+      <point x="184" y="814" type="curve" smooth="yes"/>
+      <point x="184" y="843"/>
+      <point x="209" y="868"/>
+      <point x="238" y="868" type="curve" smooth="yes"/>
+      <point x="269" y="868"/>
+      <point x="292" y="843"/>
+      <point x="292" y="814" type="curve" smooth="yes"/>
+      <point x="292" y="785"/>
+      <point x="269" y="760"/>
+    </contour>
+  </outline>
+</glyph>

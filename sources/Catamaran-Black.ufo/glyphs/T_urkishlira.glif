@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Turkishlira" format="2">
+  <advance width="624"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="279" type="line"/>
+      <point x="9" y="255" type="line"/>
+      <point x="0" y="375" type="line"/>
+      <point x="79" y="403" type="line"/>
+      <point x="79" y="436" type="line"/>
+      <point x="9" y="412" type="line"/>
+      <point x="0" y="533" type="line"/>
+      <point x="79" y="561" type="line"/>
+      <point x="79" y="692" type="line"/>
+      <point x="261" y="707" type="line"/>
+      <point x="261" y="625" type="line"/>
+      <point x="366" y="662" type="line"/>
+      <point x="404" y="550" type="line"/>
+      <point x="261" y="500" type="line"/>
+      <point x="261" y="467" type="line"/>
+      <point x="366" y="504" type="line"/>
+      <point x="404" y="392" type="line"/>
+      <point x="261" y="342" type="line"/>
+      <point x="261" y="149" type="line"/>
+      <point x="345" y="150"/>
+      <point x="416" y="218"/>
+      <point x="416" y="361" type="curve"/>
+      <point x="604" y="360" type="line"/>
+      <point x="604" y="139"/>
+      <point x="482" y="0"/>
+      <point x="261" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

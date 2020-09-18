@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_VowelUu.alt1" format="2">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="252" y="384" type="line"/>
+      <point x="410" y="384" type="line"/>
+      <point x="394" y="513" type="line"/>
+      <point x="-244" y="513" type="line"/>
+      <point x="-244" y="384" type="line"/>
+      <point x="88" y="384" type="line"/>
+      <point x="88" y="-170" type="line"/>
+      <point x="252" y="-170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

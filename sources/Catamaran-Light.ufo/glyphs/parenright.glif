@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="251"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="30" y="657" type="curve"/>
+      <point x="82" y="675" type="line"/>
+      <point x="163" y="568"/>
+      <point x="201" y="425"/>
+      <point x="201" y="320" type="curve" smooth="yes"/>
+      <point x="201" y="213"/>
+      <point x="163" y="71"/>
+      <point x="82" y="-37" type="curve"/>
+      <point x="30" y="-19" type="line"/>
+      <point x="87" y="42"/>
+      <point x="138" y="223"/>
+      <point x="138" y="319" type="curve" smooth="yes"/>
+      <point x="138" y="415"/>
+      <point x="87" y="594"/>
+    </contour>
+  </outline>
+</glyph>

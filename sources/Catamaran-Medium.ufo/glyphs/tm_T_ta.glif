@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Tta" format="2">
+  <advance width="722"/>
+  <unicode hex="0B9F"/>
+  <anchor x="425" y="0" name="abvm1"/>
+  <outline>
+    <contour>
+      <point x="701" y="68" type="line"/>
+      <point x="712" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="513" type="line"/>
+      <point x="176" y="518" type="line"/>
+      <point x="176" y="68" type="line"/>
+    </contour>
+  </outline>
+</glyph>

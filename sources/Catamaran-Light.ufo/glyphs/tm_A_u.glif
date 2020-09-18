@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_Au" format="2">
+  <advance width="2011"/>
+  <unicode hex="0B94"/>
+  <outline>
+    <component base="tm_O"/>
+    <component base="tm_Lla" xOffset="808"/>
+  </outline>
+</glyph>

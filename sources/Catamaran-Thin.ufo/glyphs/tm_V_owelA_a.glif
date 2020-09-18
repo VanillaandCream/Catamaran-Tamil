@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tm_VowelAa" format="2">
+  <advance width="649"/>
+  <unicode hex="0BBE"/>
+  <anchor x="316" y="0" name="abvm1"/>
+  <outline>
+    <contour>
+      <point x="438" y="478" type="line"/>
+      <point x="639" y="478" type="line"/>
+      <point x="634" y="513" type="line"/>
+      <point x="100" y="513" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="478" type="line"/>
+      <point x="394" y="478" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
