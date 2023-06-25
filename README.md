@@ -8,3 +8,5 @@ The word Catamaran refers to a yacht or other boat with twin hulls in parallel. 
 
 The Catamaran project is led by Pria Ravichandran, a type designer from India. To contribute, visit github.com/VanillaandCream/Catamaran
 
+![Specimen_Catamaran FS](https://github.com/6775060/Catamaran-Tamil/assets/41392424/29ac7034-ab54-4fa2-beb3-ebd7398b7f51)
+![Specimen_Catamaran FS2](https://github.com/6775060/Catamaran-Tamil/assets/41392424/644d8259-8823-4330-b345-bceffe6d5c3f)
